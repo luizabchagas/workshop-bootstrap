@@ -1,0 +1,167 @@
+
+head, 
+body {
+    background-color: #000000;
+}
+
+header,
+footer {
+    background-color: #992f7e;
+}
+
+footer {
+    text-align: center;
+    padding: 30px 0;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+#logo {
+    width: 120px;
+    margin: 30px 0;
+    height: auto;
+}
+
+.carousel,
+.row {
+    margin-bottom: 0px;
+}
+
+.carousel {
+    margin-top: 0px;
+}
+
+.carousel {
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.carousel img {
+    width: auto;
+}
+
+.btn-primary {
+    background-color: #992f7e;
+    border: 3px solid #992f7e;
+    margin-left: 80px;
+}
+
+.btn-primary:hover {
+    background-color: #992f7e;
+    border: 3px solid #e084c9;
+}
+
+.card {
+    color: #ffff;
+    background-color: #000000;
+    float: left;
+    margin: 15px;
+}
+
+.direito {
+    border: 3px solid #992f7e;
+    border-radius: 30px;
+    margin-left: 2px;
+}
+
+.carousel-style { 
+    border: 3px solid #992f7e;
+    border-radius: 6px;
+}
+
+.descricao {
+    color: #ffff;
+    text-align: justify;
+    border: 3px solid #992f7e;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.habilidades {
+    color: #ffff;
+    text-align: justify;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    padding: 15px;
+    border: 3px solid #992f7e;
+    border-radius: 30px;
+}
+
+.luiza {
+    font-family: "Pacifico", cursive;
+    color: white;
+    text-shadow: 3px 1px #992f7e, 1px 3px #992f7e, 3px 1px #992f7e, 1px 3px #992f7e;
+    text-align: center;
+}
+
+.github {
+    margin-left: 600px;
+    margin-bottom: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.linkedin {
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.titulo {
+    color: white;
+    text-shadow: 3px 1px #992f7e, 1px 3px #992f7e, 3px 1px #992f7e, 1px 3px #992f7e;
+}
+
+.contato {
+    margin-left: -15px;
+}
+
+.card-body {
+    margin-left: -30px;
+}
+
+.formacao1,
+.formacao1:link,
+.formacao1:hover,
+.formacao1:visited,
+.formacao1:focus,
+.formacao1:active,
+.formacao1:not(.collapsed),
+.formacao1:after {
+    color: #ffff;
+    background-color: #000000;
+}
+
+.formacao2,
+.formacao2:link,
+.formacao2:hover,
+.formacao2:visited,
+.formacao2:focus,
+.formacao2:active,
+.formacao2:not(.collapsed),
+.formacao2:after {
+    color: #ffff;
+    background-color: #992f7e;
+}
+
+.bem-vindo {
+    font-family: Pacifico, cursive;
+    color: white;
+    text-shadow: 4px 1px black, 1px 4px black, 4px 1px black, 1px 4px black;
+    text-align: center;
+}
+
+.contato {
+    border: 3px solid #992f7e;
+    border-radius: 6px;
+}
