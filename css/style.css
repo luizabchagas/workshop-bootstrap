@@ -102,19 +102,17 @@ img {
     text-align: center;
 }
 
-.github {
-    margin-left: 600px;
+.gitandlkdn {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 30px;
     width: 30px;
     height: 30px;
 }
 
-.linkedin {
-    margin-top: 0px;
-    margin-left: 10px;
-    margin-bottom: 30px;
-    width: 30px;
-    height: 30px;
+#images{
+    text-align:center;
 }
 
 .titulo {
