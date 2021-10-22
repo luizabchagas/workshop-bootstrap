@@ -96,7 +96,7 @@ img {
 }
 
 .luiza {
-    font-family: "Pacifico", cursive;
+    font-family: 'Pacifico', cursive;
     color: white;
     text-shadow: 3px 1px #992f7e, 1px 3px #992f7e, 3px 1px #992f7e, 1px 3px #992f7e;
     text-align: center;
@@ -116,11 +116,13 @@ img {
 }
 
 .titulo {
+    font-family: 'Pacifico', cursive;
     color: white;
     text-shadow: 3px 1px #992f7e, 1px 3px #992f7e, 3px 1px #992f7e, 1px 3px #992f7e;
 }
 
 .contato {
+    font-family: 'Pacifico', cursive;
     margin-left: -15px;
 }
 
