@@ -1,3 +1,6 @@
 # workshop
-Workshop realizado pela EBAC – Escola britânica de artes criativas & tecnologia nos dias 28, 29 e 30 de setembro/2021.
-Palestrante: professor Marcelo Cavalcante, Tech Leader na Dasa e professor da EBAC. Desenvolvedor Web desde 2008, com vasta experiência em projetos de internet, incluindo dispositivos móveis, marketing e performance digital. Já trabalhou em empresas como UOL, Valor Econômico, Editora Abril e PagSeguro, além de prestar consultoria para diversas marcas nacionais e multinacionais. Ele tem vasta experiência com React, JavaScript, HTML5, SASS, Node.js, Vue.js, Next.js, Laravel, typescript e nest.js.
+Projeto realizado no Workshop "Front-end rápido e fácil com Bootstrap" organizado pela EBAC – Escola britânica de artes criativas & tecnologia nos dias 28, 29 e 30 de setembro/2021.
+
+Palestrante: Marcelo Cavalcante, Tech Leader na Dasa e professor da EBAC. 
+
+https://luizabchagas.github.io/workshop/
