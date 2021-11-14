@@ -3,4 +3,4 @@ Projeto realizado no Workshop "Front-end rápido e fácil com Bootstrap" organiz
 
 Palestrante: Marcelo Cavalcante, Tech Leader na Dasa e professor da EBAC. 
 
-https://luizabchagas.github.io/workshop/
+https://luizabchagas.github.io/workshop-bootstrap/
